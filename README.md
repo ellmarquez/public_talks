@@ -8,5 +8,6 @@ Currently the slides from the OpenStack Sydney summit are not being shared as th
 * Bsides San Antonio 2017,
 * South East Linux Fest 2017,
 * Mailchimp Coffee hour 2017,
+* Grace Hopper Celebration 2017,
 * OpenStack Summit Sydney 2017,
 * Bsides Austin 2018
