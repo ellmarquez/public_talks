@@ -6,5 +6,5 @@ Kubernetes Meetup - San Antonio
 Openstack Summit - Vancover 
 
 
-### Awaiting CFP results
+### Awaiting CFP Results
 Texas Linux Fest 
