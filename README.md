@@ -11,3 +11,5 @@ Currently the slides from the OpenStack Sydney summit are not being shared as th
 * Grace Hopper Celebration 2017,
 * OpenStack Summit Sydney 2017,
 * Bsides Austin 2018
+* San Antonio K8s Meetup 2018
+
